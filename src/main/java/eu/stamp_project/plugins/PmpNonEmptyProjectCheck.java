@@ -4,6 +4,9 @@ package eu.stamp_project.plugins;
 import java.io.File;
 
 import org.apache.maven.project.MavenProject;
+
+import eu.stamp_project.PmpContext;
+
 import java.util.function.Predicate;
 
 // **********************************************************************

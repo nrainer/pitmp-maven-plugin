@@ -1,4 +1,4 @@
-package eu.stamp_project.plugins;
+package eu.stamp_project;
 
 // **********************************************************************
 import java.util.Collection;
@@ -16,6 +16,8 @@ import org.pitest.classpath.DirectoryClassPathRoot;
 import org.pitest.classinfo.ClassName;
 
 import org.pitest.maven.PmpMojo;
+
+import eu.stamp_project.plugins.PmpProject;
 
 // **********************************************************************
 public class PmpContext

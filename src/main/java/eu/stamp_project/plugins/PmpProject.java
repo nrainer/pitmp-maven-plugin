@@ -17,6 +17,9 @@ import org.pitest.mutationtest.config.ReportOptions;
 import org.pitest.mutationtest.config.PluginServices;
 import org.pitest.mutationtest.tooling.CombinedStatistics;
 import org.pitest.mutationtest.tooling.EntryPoint;
+
+import eu.stamp_project.PmpContext;
+
 import org.pitest.mutationtest.tooling.AnalysisResult;
 import org.pitest.maven.MojoToReportOptionsConverter;
 import org.pitest.maven.SurefireConfigConverter;

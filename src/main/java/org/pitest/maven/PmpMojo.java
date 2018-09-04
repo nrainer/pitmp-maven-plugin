@@ -26,6 +26,7 @@ import org.pitest.maven.RunPitStrategy;
 import org.pitest.maven.DependencyFilter;
 import org.pitest.util.Log;
 
+import eu.stamp_project.PmpContext;
 import eu.stamp_project.plugins.*;
 
 // **********************************************************************
